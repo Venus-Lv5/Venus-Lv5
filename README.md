@@ -17,7 +17,7 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 <a href="huyvo2102@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
 
 
-
+## favorite Project
 <a href="https://github.com/Venus-Lv5/UART_VIP_Verification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Venus-Lv5&repo=UART_VIP_Verification&theme=radical" />
