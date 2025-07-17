@@ -20,10 +20,10 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 
 <a href="https://github.com/Venus-Lv5/UART_VIP_Verification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Crab-Age-Prediction&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Venus-Lv5&repo=UART_VIP_Verification&theme=radical" />
 </a>    
 
 <a href="https://github.com/Venus-Lv5/UART_VIP_Validate">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Crab-Age-Prediction&theme=aura" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Venus-Lv5&repo=UART_VIP_Validate&theme=aura" />
 </a>    
