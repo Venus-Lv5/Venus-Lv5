@@ -14,7 +14,7 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/quang-huy-v%C3%B5-3947b0214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-<a href="huyvo2102@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
+<a href="mailto:huyvo2102@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
 
 
 ## Favorite Project
